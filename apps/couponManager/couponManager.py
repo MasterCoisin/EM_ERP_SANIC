@@ -1,0 +1,76 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project     ：EM_ERP_BAKEN_SANIC 
+@File        ：couponManager.py
+@IDE         ：PyCharm 
+-------------------------------------
+@Author      ：Coisin
+@QQ          ：2849068933
+@PHONE       ：17350199092
+@Description ：
+@Date        ：2025-06-17 21:59 
+-------------------------------------
+'''
+from loguru import logger
+from sanic import Blueprint, json, Request
+
+from config.bean import SuccessResponse, FailureResponse
+from models.coupon_manager import couponManager
+from mongodb_tool.db_list import mongodb_list, get_request_base_params, mongodb_create, mongodb_update
+from utils.auth import protected, role_permission
+from utils.common import get_uuid
+from utils.mongo_tool import add_filter_in_filters
+
+bp_coupon_manager = Blueprint("couponManager", url_prefix="couponManager")  # 创建蓝图
+
+
+@bp_coupon_manager.post("/list")
+@protected(permission=["couponManager:list"])
+async def coupon_manager_list(request: Request):
+    """
+    :param request:
+    :return:
+    """
+    current_page, page_size, fields, filters, sorts = get_request_base_params(request)
+
+    data = await mongodb_list(collection_name=couponManager.collection_name, fields=fields, filters=filters, sorts=sorts,
+                              current_page=current_page, page_size=page_size)
+    return json(**SuccessResponse(message="OK", data=data).to_response())
+
+
+@bp_coupon_manager.post("/create")
+@protected(permission=["couponManager:create"])
+async def coupon_manager_create(request: Request):
+    """
+    创建路由
+    :param request:
+    :return:
+    """
+    data: dict = request.json
+    data["uuid"] = get_uuid()
+    is_ok, msg = await mongodb_create(collection_name=couponManager.collection_name, data=data, uni_field=["uuid"])
+    if is_ok:
+        return json(**SuccessResponse(message=msg, data={}).to_response())
+    else:
+        return json(**FailureResponse(message=msg, data={}).to_response())
+
+
+@bp_coupon_manager.post("/update")
+@protected(permission=["couponManager:update"])
+async def coupon_manager_update(request: Request):
+    """
+    更新路由
+    :param request:
+    :return:
+    """
+    data: dict = request.json
+    _id = data.get("id", None)
+    id_field = data.get("id_field", "open_id")
+    update_data = data.get("data", {})
+    update_data[id_field] = _id
+    is_ok, msg = await mongodb_update(collection_name=couponManager.collection_name, data=update_data,
+                                      uni_field=[id_field])
+    if is_ok:
+        return json(**SuccessResponse(message=msg, data={}).to_response())
+    else:
+        return json(**FailureResponse(message=msg, data={}).to_response())

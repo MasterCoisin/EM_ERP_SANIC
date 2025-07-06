@@ -1,0 +1,2377 @@
+[
+    {
+        "id": 83951369,
+        "name": "Bratara aurie roz cu diamante albe, bijuterii pietre pretioase, Swarovski",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 218260709,
+            "vendor": {
+                "name": {
+                    "default": "Eezukunft Ecommerce",
+                    "display": "Eezukunft Ecommerce"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 82616812,
+        "name": "Inel de logodna pentru femei Printesa Diana, Un cadou de ziua de nastere pentru o doamna\uff0cUn cadou pentru o persoana draga, Marimea ei 5-10\uff0c Safir\/Argint",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 214676537,
+            "vendor": {
+                "name": {
+                    "default": "MongKok",
+                    "display": "MongKok"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 80868726,
+        "name": "Cercei din argint cu diamante",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 209562588,
+            "vendor": {
+                "name": {
+                    "default": "Optim Design Studio",
+                    "display": "Optim Design Studio"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Smart Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                },
+                {
+                    "label": "-20%",
+                    "background_color": {
+                        "r": 255,
+                        "g": 66,
+                        "b": 0
+                    },
+                    "type": "discount",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 83946764,
+        "name": "Inel 18K aur cu diamant, design modern, auriu",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 218254553,
+            "vendor": {
+                "name": {
+                    "default": "Eezukunft Ecommerce",
+                    "display": "Eezukunft Ecommerce"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 52227898,
+        "name": "Cercei, 925, Mennica Bydgoska, Argint\/Safir, Argintiu\/Albastru",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 110387259,
+            "vendor": {
+                "name": {
+                    "default": "MENNICA BYDGOSKA",
+                    "display": "MENNICA BYDGOSKA"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                },
+                {
+                    "label": "Top Favorite",
+                    "background_color": {
+                        "r": 34,
+                        "g": 167,
+                        "b": 240
+                    },
+                    "type": "commercial",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 39619163,
+        "name": "Bratara argint 925 Emerald Moon BijouxMania",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 77231865,
+            "vendor": {
+                "name": {
+                    "default": "BijouxMania",
+                    "display": "BijouxMania"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 58808381,
+        "name": "Inel din Argint cu Safir Albastru, placat cu Rodiu, Seablue, Dama, Marimea 6",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 131949406,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 83951414,
+        "name": "Colier de cristal, simbol ochi rau, cristale Swarovski, lant de clavicula",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 218260752,
+            "vendor": {
+                "name": {
+                    "default": "Eezukunft Ecommerce",
+                    "display": "Eezukunft Ecommerce"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 75081316,
+        "name": "Cercei HYTIREBY, perle si smarald, placare aur 18K, verde\/alb",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 191041789,
+            "vendor": {
+                "name": {
+                    "default": "Whitenoise",
+                    "display": "Whitenoise"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 45671110,
+        "name": "Inel reglabil din Argint, Smarald, placat cu Rodiu, Celine Green",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 228235484,
+            "vendor": {
+                "name": {
+                    "default": "Musunny",
+                    "display": "Musunny"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Top Favorite",
+                    "background_color": {
+                        "r": 34,
+                        "g": 167,
+                        "b": 240
+                    },
+                    "type": "commercial",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 73274991,
+        "name": "Colier cu pandantiv din diamant, stil frantuzesc, aur 18K, lungime ajustabila 45cm",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 185686601,
+            "vendor": {
+                "name": {
+                    "default": "YIngSJ",
+                    "display": "YIngSJ"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 81649741,
+        "name": "Cercei lungi de lux frantuzesc in forma de evantai, cu safir albastru din Mozambic, marca ESQIUSSE, realizat manual, cu zirconiu 3A stralucitor, alama placata cu platina, ac din argint 925, dimensiuni 36mm x 25mm, albastru inchis",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 211976739,
+            "vendor": {
+                "name": {
+                    "default": "Esqiusse",
+                    "display": "Esqiusse"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 67954235,
+        "name": "Set bijuterii, colier, cercei si bratara, 29 g, Albastru safir",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 168142731,
+            "vendor": {
+                "name": {
+                    "default": "Toland Greg",
+                    "display": "Toland Greg"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 76570474,
+        "name": "Inel logodna, Argint\/Dimanat, Placat cu aur alb, Argintiu",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 196155342,
+            "vendor": {
+                "name": {
+                    "default": "Mintoma",
+                    "display": "Mintoma"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Genius Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 81983108,
+        "name": "Colier de lux Moissanite Diamond, 1 carate, Forma inimii, Argintiu, DYN@,925 argint gol-intarsit cu diamant Moissanite stralucitor de 1 carate, pur, spumant, de inalta calitate, certificat si cod exclusiv, inclusiv cutii de bijuterii rafinate",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 212746889,
+            "vendor": {
+                "name": {
+                    "default": "HER Design-Alliance",
+                    "display": "HER Design-Alliance"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 67429148,
+        "name": "Inel din Argint cu Smarald verde, Celeste Emerald, Marimea 9",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 166335545,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 54222911,
+        "name": "Bratara smarald 3mm si argint handmade Dual Stax",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 117900912,
+            "vendor": {
+                "name": {
+                    "default": "Belu C.I.",
+                    "display": "Belu C.I."
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Deschide Romania",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48736365,
+        "name": "Cercei din Argint cu Smarald verde, placati cu Rodiu, Eleanors Heart",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101543293,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 64965658,
+        "name": "Pandantiv cu Lant Aur 18k Diamante BLANCO'S, PF14212-W4045, Lungime Ajustabil 40-45",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 159096037,
+            "vendor": {
+                "name": {
+                    "default": "Sabrini",
+                    "display": "Sabrini"
+                }
+            },
+            "availability": {
+                "text": "Indisponibil"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 73371756,
+        "name": "Cercei Stitch, bijuterii la moda pentru femei, hipoalergenice",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 236278753,
+            "vendor": {
+                "name": {
+                    "default": "Muuc International",
+                    "display": "Muuc International"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 81958465,
+        "name": "Cercei lungi cu rubin moissanit rosu din Mozambic, stil lux frantuzesc de la brandul ESQIUSSE, lucrat manual, cu zirconiu 3A stralucitor, placat cu aur alb din alama, tija de argint 925, dimensiuni 32mmX12mm, rosu imperial",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 212698866,
+            "vendor": {
+                "name": {
+                    "default": "Esqiusse",
+                    "display": "Esqiusse"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 41456617,
+        "name": "Bratara aur 14K Dragonne",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 85227448,
+            "vendor": {
+                "name": {
+                    "default": "BijouxMania",
+                    "display": "BijouxMania"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 58835344,
+        "name": "Inel din Argint cu Safir albastru, placat cu Rodiu, Exalted Sapphire, Dama, Marimea 6",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 132018950,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 2 produse"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 73371757,
+        "name": "Cercei Stitch, hipoalergenici Stud",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 237117489,
+            "vendor": {
+                "name": {
+                    "default": "Muuc International",
+                    "display": "Muuc International"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 88135492,
+        "name": "Bratara dama, in forma de frunza, placata cu aur 18k, set cu diamante, lungime reglabila in aur si aur alb",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 229823232,
+            "vendor": {
+                "name": {
+                    "default": "ZHUOTONG TRADING",
+                    "display": "ZHUOTONG TRADING"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 80868720,
+        "name": "Cercei rotunzi clasici din argint cu diamante Moissanite 0, 5 CT",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 209562571,
+            "vendor": {
+                "name": {
+                    "default": "Optim Design Studio",
+                    "display": "Optim Design Studio"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Smart Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                },
+                {
+                    "label": "-20%",
+                    "background_color": {
+                        "r": 255,
+                        "g": 66,
+                        "b": 0
+                    },
+                    "type": "discount",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 51816362,
+        "name": "Inel Logodna Diamant Moissanite 1ct, Argint 925, Masura 54mm",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 108848619,
+            "vendor": {
+                "name": {
+                    "default": "UNAVIDA SRL",
+                    "display": "UNAVIDA SRL"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                },
+                {
+                    "label": "Top Favorite",
+                    "background_color": {
+                        "r": 34,
+                        "g": 167,
+                        "b": 240
+                    },
+                    "type": "commercial",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 57833763,
+        "name": "Cercei din Argint cu Rubin rosu, Placati cu Rodiu, Charming Ruby",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 127456135,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 3 produse"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 70178171,
+        "name": "Inel Una Vida Engagement din Aur 18k cu Diamant Natural, 54mm",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 176034892,
+            "vendor": {
+                "name": {
+                    "default": "UNAVIDA SRL",
+                    "display": "UNAVIDA SRL"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 88287855,
+        "name": "Colier la baza gatului din pietre semipretioase de Lapis Lazuli de 3 mm si accesorii din Argint 925, 45 cm",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 230172787,
+            "vendor": {
+                "name": {
+                    "default": "Niccilly",
+                    "display": "Niccilly"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Genius Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 68674736,
+        "name": "Inel dama, Aur\/Diamante, Argintiu",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 170799200,
+            "vendor": {
+                "name": {
+                    "default": "Excellent",
+                    "display": "Excellent"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 57833753,
+        "name": "Cercei din Argint cu Smarald verde, Placati cu Rodiu, Turqoise Diamond",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 127456137,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 76797488,
+        "name": "Inel din Argint cu Rubin rosu si Cristale Zirconiu, placat cu Aur, Beatrice Ruby, Dama, Marimea 6",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 197117097,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 57833752,
+        "name": "Cercei din Argint cu Safir albastru si Cristale Zirconiu, Placati cu Rodiu, Exalted Sapphire",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 127456143,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 62865348,
+        "name": "Set bijuterii, ceas cu diamante, bratara cu diamante, colier cu rubin, cercei cu rubin, inel cu rubin, accesorii femei, pentru ocazii, business, casual, Roz Auriu, OptimStar\u00ae",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 150414121,
+            "vendor": {
+                "name": {
+                    "default": "Optim Store International",
+                    "display": "Optim Store International"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 42879523,
+        "name": "Cercei din argint placati cu Rodiu, Safir albastru, Daisy Blue, Dama",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 88311916,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 80593019,
+        "name": "Cercei din argint cu diamante",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 208393867,
+            "vendor": {
+                "name": {
+                    "default": "Optim Design Studio",
+                    "display": "Optim Design Studio"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 2 produse"
+            },
+            "unified_badges": [
+                {
+                    "label": "Smart Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                },
+                {
+                    "label": "-20%",
+                    "background_color": {
+                        "r": 255,
+                        "g": 66,
+                        "b": 0
+                    },
+                    "type": "discount",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 76797477,
+        "name": "Inel din Argint cu Smarald verde si Cristale Zirconiu, placat cu Aur, Lust Emerald, Dama, Marimea 6",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 197117045,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 2 produse"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 70178170,
+        "name": "Lant cu Pandantiv Cruce Anhk din Aur 18k cu Diamante Naturale",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 176034888,
+            "vendor": {
+                "name": {
+                    "default": "UNAVIDA SRL",
+                    "display": "UNAVIDA SRL"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Multi Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48672922,
+        "name": "Inel din Argint cu Smarald verde, placat cu Rodiu, Green Emerald, Dama, Marimea 7",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101354598,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 3 produse"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 81561622,
+        "name": "TOUS, Colier cu pandantive placate cu aur de 18K, rubin si perle de cultura, Auriu, Gunmetal",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 214130492,
+            "vendor": {
+                "name": {
+                    "default": "eMAG",
+                    "display": "eMAG"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 57937502,
+        "name": "Set din Argint, Colier si Cercei cu Smarald verde si Cristale Zirconiu, Placat cu Rodiu, Emerald Insignia",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 128182179,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 89075306,
+        "name": "Cercei Floria din argint cu diamante Moissanite",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 232299367,
+            "vendor": {
+                "name": {
+                    "default": "Imperiale Brand Trading",
+                    "display": "Imperiale Brand Trading"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 58835355,
+        "name": "Inel din Argint cu Rubin rosu, placat cu Rodiu, Diamonds Ruby, Dama, Marimea 8",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 132018953,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48606056,
+        "name": "Colier dama, Argint\/Smarald, Verde",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101120665,
+            "vendor": {
+                "name": {
+                    "default": "Fauvee",
+                    "display": "Fauvee"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 83235443,
+        "name": "Colier cu Pandantiv Yggdrasil, Alma, cu pietre pentru fiecare chakra, 5 x 5 cm",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 216169163,
+            "vendor": {
+                "name": {
+                    "default": "Magic Spot",
+                    "display": "Magic Spot"
+                }
+            },
+            "availability": {
+                "text": "Ultimele 2 produse"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 82611097,
+        "name": "Colier Dama Argint 925 Aurit 18K (2\u03bcm) cu Zirconiu Cubic - Bijuterii Premium Minimaliste, Cadou Lux\/Nunta\/Aniversare, Lant Reglabil 45+5cm, XongSyue",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 214657407,
+            "vendor": {
+                "name": {
+                    "default": "Goodtoys",
+                    "display": "Goodtoys"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Genius Deals",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48734211,
+        "name": "Cercei din Argint cu Smarald verde, placati cu Rodiu, Diamond Emerald",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101535254,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 40874831,
+        "name": "Bratara din aur galben de 14K si smarald, Beejou, Snur",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 83327991,
+            "vendor": {
+                "name": {
+                    "default": "Ideea Start Solution",
+                    "display": "Ideea Start Solution"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 68006909,
+        "name": "Inel Dresda Aur Alb, Sandra Ferretti, 14K, Diamante de 0.09 Carate si Tanzanit de 0.58 Carate, 1.27 g",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 168267940,
+            "vendor": {
+                "name": {
+                    "default": "Sandra Ferretti",
+                    "display": "Sandra Ferretti"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48605743,
+        "name": "Cercei dama, Argint\/Smarald, Verde",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101120318,
+            "vendor": {
+                "name": {
+                    "default": "Fauvee",
+                    "display": "Fauvee"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 48690107,
+        "name": "Inel din Argint cu Safir, placat cu Rodiu, Pink Diamond, Dama, Marimea 7",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 101394083,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 89075315,
+        "name": "Cercei cerc din argint cu diamante moissanite",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 232299329,
+            "vendor": {
+                "name": {
+                    "default": "Imperiale Brand Trading",
+                    "display": "Imperiale Brand Trading"
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 54585315,
+        "name": "Bratara safir 3mm handmade Dual Stax",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 118943100,
+            "vendor": {
+                "name": {
+                    "default": "Belu C.I.",
+                    "display": "Belu C.I."
+                }
+            },
+            "availability": {
+                "text": "Ultimul produs in stoc"
+            },
+            "unified_badges": [
+                {
+                    "label": "Deschide Romania",
+                    "background_color": {
+                        "r": 239,
+                        "g": 33,
+                        "b": 0
+                    },
+                    "type": "offer",
+                    "fixed_position": 0
+                }
+            ]
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 81983098,
+        "name": "Colier de lux Moissanite Diamond, 1 carate, Forma picaturii de apa, Argintiu, DYN@,925 argint gol-intarsit cu diamant Moissanite stralucitor de 1 carate, pur, spumant, de inalta calitate, certificat si cod exclusiv, inclusiv cutii de bijuterii rafinate",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 212746864,
+            "vendor": {
+                "name": {
+                    "default": "HER Design-Alliance",
+                    "display": "HER Design-Alliance"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 83947737,
+        "name": "Set cercei si colier cu cristale simulate, verde, design clasic",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 218255911,
+            "vendor": {
+                "name": {
+                    "default": "Eezukunft Ecommerce",
+                    "display": "Eezukunft Ecommerce"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 57833766,
+        "name": "Cercei din Argint cu Safir albastru si Cristale Zirconiu, Placati cu Aur, Lorreta",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 127456153,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 42879531,
+        "name": "Colier din argint placat cu Rodiu, Smarald verde, Turqoise Diamond",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 88311930,
+            "vendor": {
+                "name": {
+                    "default": "Cesini Fashion Accesories",
+                    "display": "Cesini Fashion Accesories"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 64965650,
+        "name": "Pandantiv Punto Luce cu Lant Aur 18k Diamante BLANCO'S, PS0072-Y4045, Lungime Ajustabil 40-45",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 159096024,
+            "vendor": {
+                "name": {
+                    "default": "Sabrini",
+                    "display": "Sabrini"
+                }
+            },
+            "availability": {
+                "text": "Stoc epuizat"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    },
+    {
+        "id": 72007806,
+        "name": "Bratara cu diamante geometrice de smarald, Verde\/Auriu",
+        "category": {
+            "name": "Bijuterii pietre pretioase",
+            "department": {
+                "id": 1696,
+                "name": "Fashion",
+                "sef_name": "fashion"
+            },
+            "subdepartment": {
+                "id": 61,
+                "name": "Genti si accesorii femei",
+                "sef_name": "genti-accesorii-femei"
+            },
+            "id": 3227,
+            "trail": "Fashion\/Genti si accesorii femei\/Bijuterii pietre pretioase"
+        },
+        "offer": {
+            "id": 181510815,
+            "vendor": {
+                "name": {
+                    "default": "Goldie small shop",
+                    "display": "Goldie small shop"
+                }
+            },
+            "availability": {
+                "text": "\u00cen stoc"
+            },
+            "unified_badges": null
+        },
+        "scm_super_category": {
+            "id": 1527,
+            "name": "Bags & Accessories"
+        }
+    }
+]

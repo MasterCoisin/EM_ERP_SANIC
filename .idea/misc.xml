@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="EM_ERP_BAKEN_SANIC" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="EM_ERP_BAKEN_SANIC" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,102 @@
+{
+    "GOGOU": {
+        "seller_id": "62966",
+        "virtual_warehouse_id": 148,
+        "platform_id": 1,
+        "prefiex": "EMBT",
+        "manufacturers": [
+            {
+                "address": "CangXia New Town, JiaSheng Building 3-6, 2nd Floor, 206, Fuzhou, Fujian, 528000",
+                "email": "sellforeu@hotmail.com",
+                "name": "FUZHOU BAI TAI WANGLUO JISHU YOUXIAN GONGSI"
+            }
+        ],
+        "eu_representatives": [
+            {
+                "address": "CALLE RIO TORMES NUM.1, PLANTA 1, DERECHA,OFICINA 3, Fuenlabrada, Madrid, 28947 Spain",
+                "email": "successservice2@hotmail.com",
+                "name": "SUCCESS COURIER SL "
+            }
+        ]
+    },
+    "MODSIG": {
+        "seller_id": "86814",
+        "virtual_warehouse_id": 148,
+        "platform_id": 1,
+        "prefiex": "EMS",
+        "manufacturers": [
+            {
+                "address": "provincia Fujian, orașul Fuzhou, districtul Gulou, cartierul Wenjian, Strada Wusi, Nr. 19, Clădirea Guotai, Etaj 7, Zona A1, Ap. L6, Fuzhou, Fujian, 528000",
+                "email": "wpsemagpp@outlook.com",
+                "name": "FU ZHOU WANG PI SI DIAN ZI SHANG WU YOU XIAN GONG SI SARL"
+            }
+        ],
+        "eu_representatives": [
+            {
+                "address": "Grafenberger Allee 277, 40237 Düsseldorf, DE",
+                "email": "Info@apex-ce.com",
+                "name": "Apex CE Specialists GmbH"
+            }
+        ]
+    },
+    "CooTooLa": {
+        "seller_id": "181695",
+        "virtual_warehouse_id": 148,
+        "platform_id": 1,
+        "prefiex": "ECHO",
+        "manufacturers": [
+            {
+                "address": "Wen Quan Jie Dao Wu Si Lu 19 Hao Guo Tai Da Sha Qi Ceng A1 Qu-N21 Fu Zhou Gu Lou Qu Fu Jian 350000 CN",
+                "email": "cootoola@outlook.com",
+                "name": "FU ZHOU REN YI MU MAO YI YOU XIAN GONG SI"
+            }
+        ],
+        "eu_representatives": [
+            {
+                "address": "Grafenberger Allee 277, 40237 Düsseldorf, DE",
+                "email": "Info@apex-ce.com",
+                "name": "Apex CE Specialists GmbH"
+            }
+        ]
+    },
+    "Umetoop": {
+        "seller_id": "189338",
+        "virtual_warehouse_id": 148,
+        "platform_id": 1,
+        "prefiex": "EMHK",
+        "manufacturers": [
+            {
+                "address": "FLAT/RM 917C BLK A 9/F NEW MANDARIN PLAZA No.14 SCIENCE MUSEUM ROAD TSIMSHATSUI KL, HONGKONG, 999077",
+                "email": "umetoop@outlook.com",
+                "name": "HONG KONG HEREBUY TRADING CO., LIMITED"
+            }
+        ],
+        "eu_representatives": [
+            {
+                "address": "CASTELLANA 9144, 28046 Madrid SPAIN",
+                "email": "compliance.gavimosa@outlook.com",
+                "name": "GAVIMOSA CONSULTORIA, SOCIEDAD LIMITADA"
+            }
+        ]
+    },
+    "Hipetly": {
+        "seller_id": "189338",
+        "virtual_warehouse_id": 148,
+        "platform_id": 1,
+        "prefiex": "EMQZ",
+        "manufacturers": [
+            {
+                "address": "FuJianSheng FuZhouShi GuLouQu WenQuanJieDao WuSiLvu 19 Hao GuoTaiDaSha 7 Ceng A1 Qu E10 Shi",
+                "email": "superqzem@outlook.com",
+                "name": "FUZHOU QIANZIGONGYINGLIAN GUANLI YOUXIANGONGSI"
+            }
+        ],
+        "eu_representatives": [
+            {
+                "address": "FUZHOU QIANZIGONGYINGLIAN GUANLI YOUXIANGONGSI",
+                "email": "ecrepservice@hotmail.com",
+                "name": "EC REP SERVICES SL"
+            }
+        ]
+    }
+}
